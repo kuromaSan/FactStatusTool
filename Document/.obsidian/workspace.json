@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "7053da5162eeb52d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b86fcc90065098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3126a4776b4cf415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6c9f6624004e85d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b2988b9d187da17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da8f869bce7d103c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "f4ccbc60550c569d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "9ea46bdd2adf7c53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a005f86c4a468ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c39f440b00f8e9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3020ad4f96d074d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "READMEへのバックリンク"
+            }
+          },
+          {
+            "id": "4131165d3ff6903a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "READMEからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "0df3604e1b59b189",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "53dc5a173ee4e500",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "READMEのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "3126a4776b4cf415",
+  "lastOpenFiles": [
+    "00_libraries/README.md",
+    "00_libraries/__todo/README.md",
+    "00_libraries/__todo/__checkList/README.md",
+    "00_libraries/__todo/__checkList/_judgmentTable/README.md",
+    "README.md",
+    "01_presentation/README.md",
+    "01_presentation/__todo/README.md",
+    "01_presentation/__todo/__checkList/README.md",
+    "01_presentation/__todo/__checkList/_judgmentTable/README.md",
+    "02_application/README.md",
+    "02_application/__todo/README.md",
+    "02_application/__todo/__checkList/README.md",
+    "02_application/__todo/__checkList/_judgmentTable/README.md",
+    "03_domain/README.md",
+    "03_domain/__todo/README.md",
+    "03_domain/__todo/__checkList/README.md",
+    "03_domain/__todo/__checkList/_judgmentTable/README.md",
+    "04_infrastructure/README.md",
+    "04_infrastructure/__todo/README.md",
+    "04_infrastructure/__todo/__checkList/README.md",
+    "04_infrastructure/__todo/__checkList/_judgmentTable/README.md",
+    "schema/README.md",
+    "schema/__schema/README.md",
+    "__checkList/_judgmentTable/README.md",
+    "__checkList/_judgmentTable",
+    "__checkList",
+    "README 1.md"
+  ]
+}
