@@ -1,6 +1,7 @@
-# 02_Application
+# L02_Application
 
-## オブジェクト名
-[__Todo](./__Todo/README.md)
+## 実行リスト
 
+[__Todo](./__Todo/README.md)  
+[config.yamlを取得して実行]()  
 [Back](../README.md)  
