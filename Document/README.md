@@ -1,10 +1,16 @@
-# Document
+# ドキュメント
 
-## フォルダ概要
+## 企画内容
 
-[L00_Schema](./L00_Schema/README.md)  
-[L01_Presentation](./L01_Presentation/README.md)  
-[L02_Application](./L02_Application/README.md)  
-[L03_Domain](./L03_Domain/README.md)  
-[L04_Infrastructure](./L04_Infrastructure/README.md)  
-[Back](../README.md)  
+テンプレートドキュメント
+
+## 企画実装
+
+[実装名](./__Todo/README.md)  
+
+## 企画構想
+
+[構想名](./__Schema/README.md)  
+
+---
+[Back](../README.md)

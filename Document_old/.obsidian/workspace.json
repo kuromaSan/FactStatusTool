@@ -1,57 +1,21 @@
 {
   "main": {
-    "id": "e257794b66d55abc",
+    "id": "7053da5162eeb52d",
     "type": "split",
     "children": [
       {
-        "id": "eb07ee2bdd9e6c21",
+        "id": "e0b86fcc90065098",
         "type": "tabs",
         "children": [
           {
-            "id": "64cf7dc722b44c25",
+            "id": "3126a4776b4cf415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Todo/__Validate/__Result/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "10491583ec212020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Todo/__Process/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d4c01994bb189fd4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32ebde97dfc238d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Todo/README.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -63,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "43884da0bea77ef2",
+    "id": "f6c9f6624004e85d",
     "type": "split",
     "children": [
       {
-        "id": "d6a8763be3c1d9c4",
+        "id": "9b2988b9d187da17",
         "type": "tabs",
         "children": [
           {
-            "id": "c6f0a0c020c512b8",
+            "id": "da8f869bce7d103c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,7 +48,7 @@
             }
           },
           {
-            "id": "7359cc87bf2023d0",
+            "id": "f4ccbc60550c569d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -101,7 +65,7 @@
             }
           },
           {
-            "id": "1da7f84a25a1c8f9",
+            "id": "9ea46bdd2adf7c53",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -117,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "5f1c64c5a95f36ea",
+    "id": "a005f86c4a468ebc",
     "type": "split",
     "children": [
       {
-        "id": "46c77511a684193a",
+        "id": "6c39f440b00f8e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "d65c3688b635aa0f",
+            "id": "e3020ad4f96d074d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crafter/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,12 +108,12 @@
             }
           },
           {
-            "id": "94644843d81d002b",
+            "id": "4131165d3ff6903a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crafter/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,30 +122,25 @@
             }
           },
           {
-            "id": "3fb42662931f2ac8",
+            "id": "0df3604e1b59b189",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "タグ"
             }
           },
           {
-            "id": "990847a5b15822bb",
+            "id": "53dc5a173ee4e500",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crafter/README.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "README.md"
               },
               "icon": "lucide-list",
               "title": "READMEのアウトライン"
@@ -204,32 +163,34 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "10491583ec212020",
+  "active": "3126a4776b4cf415",
   "lastOpenFiles": [
-    "__Todo/README.md",
-    "__Todo/__Process/README.md",
-    "__Todo/__Validate/README.md",
-    "__Todo/__Validate/__Result/README.md",
+    "00_libraries/README.md",
+    "00_libraries/__todo/README.md",
+    "00_libraries/__todo/__checkList/README.md",
+    "00_libraries/__todo/__checkList/_judgmentTable/README.md",
     "README.md",
-    "__Todo/__Validate/__Process/README.md",
-    "__Todo/__Validate/__Process",
-    "__Todo/__Schema/README.md",
-    "__Todo/__Process",
-    "__FileCopy/__Todo/__SchemaName/README.md",
-    "__FileCopy/__Todo/__SchemaName",
-    "_Schema/__SchemaName/README.md",
-    "_Schema/__SchemaName",
-    "__FileCopy/__Todo/__ValidateName/__ResultName/README.md",
-    "__FileCopy/__Todo/__ValidateName/__ResultName",
-    "__FileCopy/__Todo/__ValidateName/__ValidateResult/README.md",
-    "__FileCopy/__Todo/__ValidateName/__ValidateResult",
-    "__FileCopy/__Todo/__ValidateName/README.md",
-    "__FileCopy/__Todo/__ValidateName",
-    "__FileCopy/README.md",
-    "__FileCopy/__Todo/README.md",
-    "__FileCopy/__Todo/__ValidateMethod/README.md",
-    "__FileCopy/__Todo/__ValidateMethod/__ValidateResult/README.md",
-    "_Schema/README.md",
-    "Crafter/README.md"
+    "01_presentation/README.md",
+    "01_presentation/__todo/README.md",
+    "01_presentation/__todo/__checkList/README.md",
+    "01_presentation/__todo/__checkList/_judgmentTable/README.md",
+    "02_application/README.md",
+    "02_application/__todo/README.md",
+    "02_application/__todo/__checkList/README.md",
+    "02_application/__todo/__checkList/_judgmentTable/README.md",
+    "03_domain/README.md",
+    "03_domain/__todo/README.md",
+    "03_domain/__todo/__checkList/README.md",
+    "03_domain/__todo/__checkList/_judgmentTable/README.md",
+    "04_infrastructure/README.md",
+    "04_infrastructure/__todo/README.md",
+    "04_infrastructure/__todo/__checkList/README.md",
+    "04_infrastructure/__todo/__checkList/_judgmentTable/README.md",
+    "schema/README.md",
+    "schema/__schema/README.md",
+    "__checkList/_judgmentTable/README.md",
+    "__checkList/_judgmentTable",
+    "__checkList",
+    "README 1.md"
   ]
 }
