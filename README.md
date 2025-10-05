@@ -1,6 +1,6 @@
 # DocumentObject
 
-[ドキュメント](./Document/README.md)
+[ドキュメント](./Documents/README.md)
 
 ## 概要
 
