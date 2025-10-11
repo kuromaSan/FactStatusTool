@@ -1,6 +1,6 @@
-# 実装名
+# JsonTreeからConfig
 ## 実装内容
-データベース型JsonファイルをConfigファイルに変換
+階層型JsonファイルをConfigファイルに変換
 ## 実装検証
 [JsonからJsonByRelationalDto](./JsonToJsonByRelationalDto/README.md)  
 [JsonByRelationalDtoからConfig](./JsonByRelationalDtoToConfig/README.md)  

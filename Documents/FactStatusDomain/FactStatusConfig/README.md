@@ -2,17 +2,18 @@
 ## 実装内容
 Configファイルの作成
 ## 実装検証
-[SubjectConfigをFactStatusConfigに追加](./AddSubjectConfig/README.md)  
-[TodoConfigをFactStatusConfigに追加](./AddTodoConfig/README.md)  
-[ValidateConfigをFactStatusConfigに追加](./AddValidateConfig/README.md)  
-[ResultConfigをFactStatusConfigに追加](./AddResultConfig/README.md)  
-[RecordConfigをFactStatusConfigに追加](./AddRecordConfig/README.md)  
-[ProcessConfigをFactStatusConfigに追加](./AddProcessConfig/README.md)  
-[SchemaConfigをFactStatusConfigに追加](./AddSchemaConfig/README.md)  
+[FactStatusConfigの内容検証](./ValidateFactStatusConfig/README.md)  
+[SubjectConfigの内容検証](./ValidateSubjectConfig/README.md)
+[TodoConfigの内容検証](./ValidateTodoConfig/README.md)  
+[ValidateConfigの内容検証](./ValidateValidateConfig/README.md)  
+[ResultConfigの内容検証](./ValidateResultConfig/README.md)  
+[RecordConfigの内容検証](./ValidateRecordConfig/README.md)  
+[ProcessConfigの内容検証](./ValidateProcessConfig/README.md)  
+[SchemaConfigの内容検証](./ValidateSchemaConfig/README.md)  
 ## 実装手順
-[手順名](./__Process/README.md)  
+[手順1.0](./Process1.0/README.md)  
 ## 実装構想
-[構想名](./__Schema/README.md)  
+[まとめた設定データの作成](./__Schema/README.md)  
 
 ---
 [Back](../README.md)  

@@ -1,9 +1,9 @@
-# JsonからJsonByRelationalDto
+# ConfigからJsonRelational
 ## 実装内容
-リレーショナルJsonファイルを読み込む
+Configからデータベース型Jsonファイルに書き出し
 ## 実装検証
-[ConfigからJsonByRelationalDto](./__Validate/README.md)  
-[JsonByRelationalDtoからJson](./__Validate/README.md)  
+[ConfigからJsonByRelationalDto](./ValidateConfigToJsonByRelationalDto/README.md)  
+[JsonByRelationalDtoからJson](./ValidateJsonByRelationalDtoToJson/README.md)  
 ## 実装手順
 [手順1.0](./Process1.0/README.md)  
 ## 実装構想
