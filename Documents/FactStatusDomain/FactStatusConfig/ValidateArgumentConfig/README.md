@@ -1,6 +1,6 @@
-# SchemaConfigの内容検証
+# ArgumentConfigの内容検証
 ## 検証内容
-SchemaConfigに定義した値が入っているか
+ArgumentConfigに定義した値が入っているか
 ## 検証結果
 [正常値](./SuccessValue/README.md)  
 ## 検証手順
