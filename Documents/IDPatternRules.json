@@ -1,19 +1,17 @@
 {
   "classTypes":{
     "01":"Subject",
-    "02":"Todo",
+    "02":"Achievement",
     "03":"Validate",
     "04":"Result",
     "05":"Record",
-    "06":"Process",
+    "06":"Todo",
     "07":"Schema"
   },
   "propertyTypes":{
     "04":{
-      "01":"arguments"
-    },
-    "06":{
-      "01":"steps"
+      "01":"arguments",
+      "02":"assertions"
     }
   }
 }
